@@ -5,6 +5,7 @@
 ;; Author: Edward O'Connor <hober0@gmail.com>
 ;; Keywords: xml
 ;; URL: http://edward.oconnor.cx/elisp/edom.el
+;; Version: 1.0.0
 
 ;; This file is free software; you can redistribute it and/or modify it
 ;; under the terms of the GNU General Public License as published by the
